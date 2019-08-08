@@ -276,7 +276,7 @@ To Kill a Mockingbird | Lee | 12
 
 --output omitted--
 </screen>
-<para>Of course, this situation is not ideal, since everybody can edit (but not delete) Michelle's files.  You can solve this problem using special access modes on the script file, see <ulink url="http://www.tldp.org/LDP/intro-linux/html/sect_04_01.html#sect_04_01_06">SUID and SGID</ulink> in the Introduction to Linux guide.</para>
+<para>Of course, this situation is not ideal, since everybody can edit (but not delete) Michel's files.  You can solve this problem using special access modes on the script file, see <ulink url="http://www.tldp.org/LDP/intro-linux/html/sect_04_01.html#sect_04_01_06">SUID and SGID</ulink> in the Introduction to Linux guide.</para>
 </sect2>
 <sect2 id="sect_08_02_03"><title>Redirection and file descriptors</title>
 <sect3 id="sect_08_02_03_01"><title>General</title>
